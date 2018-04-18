@@ -1,1 +1,1 @@
-This code gives you a basic javascript testing setup using typescript, karma, and jasmine.
+This code gives you a basic javascript testing setup using karma and jasmine.
