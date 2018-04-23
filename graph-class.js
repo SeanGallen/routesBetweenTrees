@@ -1,6 +1,6 @@
-class SomeClass {
+class Graph {
     constructor(){
-
+     this.nodes = [];
     }
 
     runAMethod() {
@@ -8,6 +8,6 @@ class SomeClass {
     }
 
     doh() {
-        
+
     }
 }
